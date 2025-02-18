@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2EF2215-E0B0-4AFB-88CA-F62EE0A7BF9A}|Async Programming\\Async Programming.csproj|c:\\users\\lenovo\\desktop\\coding\\multithreading\\introduction\\async programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2EF2215-E0B0-4AFB-88CA-F62EE0A7BF9A}|Async Programming\\Async Programming.csproj|solutionrelative:async programming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D93D5-5318-499F-82ED-76AC4737D9A0}|ThreadSynchronization\\ThreadSynchronization.csproj|c:\\users\\lenovo\\desktop\\coding\\multithreading\\introduction\\threadsynchronization\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D93D5-5318-499F-82ED-76AC4737D9A0}|ThreadSynchronization\\ThreadSynchronization.csproj|solutionrelative:threadsynchronization\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{769D93D5-5318-499F-82ED-76AC4737D9A0}|ThreadSynchronization\\ThreadSynchronization.csproj|c:\\users\\lenovo\\desktop\\coding\\multithreading\\introduction\\threadsynchronization\\ticketcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769D93D5-5318-499F-82ED-76AC4737D9A0}|ThreadSynchronization\\ThreadSynchronization.csproj|solutionrelative:threadsynchronization\\ticketcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{769D93D5-5318-499F-82ED-76AC4737D9A0}|ThreadSynchronization\\ThreadSynchronization.csproj|c:\\users\\lenovo\\desktop\\coding\\multithreading\\introduction\\threadsynchronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{769D93D5-5318-499F-82ED-76AC4737D9A0}|ThreadSynchronization\\ThreadSynchronization.csproj|solutionrelative:threadsynchronization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,18 +40,56 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\ThreadSynchronization\\Program.cs",
-              "RelativeDocumentMoniker": "ThreadSynchronization\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\ThreadSynchronization\\Program.cs",
-              "RelativeToolTip": "ThreadSynchronization\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAwEAAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\Async Programming\\Program.cs",
+              "RelativeDocumentMoniker": "Async Programming\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\Async Programming\\Program.cs",
+              "RelativeToolTip": "Async Programming\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T13:16:26.338Z",
+              "WhenOpened": "2025-02-18T18:55:40.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\ThreadSynchronization\\Monitor.cs",
+              "RelativeDocumentMoniker": "ThreadSynchronization\\Monitor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\ThreadSynchronization\\Monitor.cs",
+              "RelativeToolTip": "ThreadSynchronization\\Monitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:48:37.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketCounter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\ThreadSynchronization\\TicketCounter.cs",
+              "RelativeDocumentMoniker": "ThreadSynchronization\\TicketCounter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\ThreadSynchronization\\TicketCounter.cs",
+              "RelativeToolTip": "ThreadSynchronization\\TicketCounter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:34:34.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\ThreadSynchronization\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadSynchronization\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\ThreadSynchronization\\Program.cs",
+              "RelativeToolTip": "ThreadSynchronization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:16:26.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DivideAndConquer.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\Introduction\\DivideAndConquer.cs",
               "RelativeDocumentMoniker": "Introduction\\DivideAndConquer.cs",
@@ -47,12 +97,11 @@
               "RelativeToolTip": "Introduction\\DivideAndConquer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:25:52.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T13:25:52.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Coding\\Multithreading\\Introduction\\Introduction\\Program.cs",
               "RelativeDocumentMoniker": "Introduction\\Program.cs",
